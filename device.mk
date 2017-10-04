@@ -43,10 +43,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     camera.msm8960
 
-# syspart selector
-PRODUCT_PACKAGES += \
-    syspart_select
-
 # for expanding the system partition
 PRODUCT_PACKAGES += \
     resize2fs_static
